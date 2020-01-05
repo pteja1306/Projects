@@ -1,0 +1,36 @@
+{"content": "Iris Bohnet\nMember of the Board of Directors ","annotation":[{"label":["person_name"],"points":[{"start":0,"end":10,"text":"Iris Bohnet"}]},{"label":["title"],"points":[{"start":12,"end":43,"text":"Member of the Board of Directors"}]}]}
+{"content": "USA 444 N. Michigan Ave.\nSuite 2600 Chicago\nIllinois ",annotation":[{label":["office_address"]"points":[{"start":0,"end":55,"text":USA 444 N Michigan Ave"}]},{"label":["suite_info"],"points":[{"start":27,"end":45,"text":"Suite 2600 Chicago"}]},{"label":["state"],"points":[{"start":48,"end":55,"text":"Illinois"}]}]}
+{"content": "60611 +1-312-704-5100\ninfo@thesciongroup.com ",annotation":[{label":["Phone_number"]"points":[{"start":7,"end":21,"text":+1-312-704-5100"}]},{"label":["mail_ID"],"points":[{"start":24,"end":45,"text":"info@thesciongroup.com"}]}]}
+{"content": "","annotation":[{"label":["person_name"],"points":[{"start":0,"end":0,"text":""}]},{"label":["title"],"points":[{"start":0,"end":0,"text":""}]}]}
+
+{"content": "Intellect Design Arena Limited","annotation":[{"label":["company_name"],"points":[{"start":0,"end":29,"text":"Intellect Design Arena Limited"}]}]}
+{"content": "3D Chocolate Factory ink","annotation":[{"label":["company_name"],"points":[{"start":0,"end":23,"text":"3-D Chocolate Factory ink"}]}]}
+{"content": "Apache Corporation","annotation":[{"label":["company_name"],"points":[{"start":0,"end":17,"text":"Apache Corporation"}]}]}
+{"content": "Archer Daniels Midland","annotation":[{"label":["company_name"],"points":[{"start":0,"end":21,"text":"Archer Daniels Midland"}]}]}
+{"content": "Miss Bailey Brown Chocolate Corporation","annotation":[{"label":["company_name"],"points":[{"start":0,"end":38,"text":"Miss Bailey Brown Chocolate Corporation"}]}]}
+{"content": "Kims Chocolate NV","annotation":[{"label":["company_name"],"points":[{"start":0,"end":16,"text":"Kims Chocolate NV"}]}]}
+{"content": "The Belgian Chocolate Group","annotation":[{"label":["company_name"],"points":[{"start":0,"end":26,"text":"The Belgian Chocolate Group"}]}]}
+{"content": "Chocolate Cafe Franchsing Shop","annotation":[{"label":["company_name"],"points":[{"start":0,"end":29,"text":"Chocolate Cafe Franchsing Shop"}]}]}
+{"content": "Scion","annotation":[{"label":["company_name"],"points":[{"start":0,"end":4,"text":"Scion"}]}]}
+{"content": "1832 Asset Management","annotation":[{"label":["company_name"],"points":[{"start":0,"end":20,"text":"1832 Asset Management"}]}]}
+{"content": "Woori Bank","annotation":[{"label":["company_name"],"points":[{"start":0,"end":9,"text":"Woori Bank"}]}]}
+{"content": "Intellect Design Arena LTD.","annotation":[{"label":["company_name"],"points":[{"start":0,"end":25,"text":"Intellect Design Arena LTD."}]}]}
+{"content": "Chocolate Factory ink 3-D","annotation":[{"label":["company_name"],"points":[{"start":0,"end":24,"text":"Chocolate Factory ink 3-D"}]}]}
+{"content": "Intellect Design Arena Limited, 2345","annotation":[{"label":["company_name"],"points":[{"start":0,"end":29,"text":"Intellect Design Arena Limited, 2345"}]}]}
+{"content": "3D, Chocolate Factory ink","annotation":[{"label":["company_name"],"points":[{"start":0,"end":24,"text":"3-D, Chocolate Factory ink"}]}]}
+{"content": "Apache Corporation","annotation":[{"label":["company_name"],"points":[{"start":0,"end":17,"text":"Apache Corporation"}]}]}
+{"content": "Archer Daniels Midland","annotation":[{"label":["company_name"],"points":[{"start":0,"end":21,"text":"Archer Daniels Midland"}]}]}
+{"content": "Miss Bailey Brown Chocolate Corp","annotation":[{"label":["company_name"],"points":[{"start":0,"end":31,"text":"Miss Bailey Brown Chocolate Corp"}]}]}
+{"content": "Kims Chocolate NV LTD","annotation":[{"label":["company_name"],"points":[{"start":0,"end":20,"text":"Kims Chocolate NV"}]}]}
+{"content": "The Belgian Chocolate Group","annotation":[{"label":["company_name"],"points":[{"start":0,"end":26,"text":"The Belgian Chocolate Group"}]}]}
+{"content": "Chocolate Cafe Franchsing Shop","annotation":[{"label":["company_name"],"points":[{"start":0,"end":29,"text":"Chocolate Cafe Franchsing Shop"}]}]}
+{"content": "Scion 12345","annotation":[{"label":["company_name"],"points":[{"start":0,"end":4,"text":"Scion"}]}]}
+{"content": "1832 Asset Management","annotation":[{"label":["company_name"],"points":[{"start":0,"end":20,"text":"1832 Asset Management"}]}]}
+{"content": "Woori Bank","annotation":[{"label":["company_name"],"points":[{"start":0,"end":9,"text":"Woori Bank"}]}]}
+{"content": "Intellect Design Arena Limited","annotation":[{"label":["company_name"],"points":[{"start":0,"end":29,"text":"Intellect Design Arena Limited"}]}]}
+{"content": "3-D Chocolate Factory ink","annotation":[{"label":["company_name"],"points":[{"start":0,"end":24,"text":"3-D Chocolate Factory ink"}]}]}
+{"content": "Intellect Design Arena LTD.","annotation":[{"label":["company_name"],"points":[{"start":0,"end":25,"text":"Intellect Design Arena LTD."}]}]}
+{"content": "Chocolate Factory ink 3-D","annotation":[{"label":["company_name"],"points":[{"start":0,"end":24,"text":"Chocolate Factory ink 3-D"}]}]}
+{"content": "Intellect Design Arena Limited, 2345","annotation":[{"label":["company_name"],"points":[{"start":0,"end":29,"text":"Intellect Design Arena Limited, 2345"}]}]}
+{"content": "3-D, Chocolate Factory ink","annotation":[{"label":["company_name"],"points":[{"start":0,"end":25,"text":"3-D, Chocolate Factory ink"}]}]}
+{"content": "","annotation":[{"label":["person_name"],"points":[{"start":0,"end":0,"text":""}]},{"label":["title"],"points":[{"start":0,"end":0,"text":""}]}]}
